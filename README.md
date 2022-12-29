@@ -41,6 +41,12 @@ Fullstack with Spring Boot:
 Fullstack with Django:
 > [Angular + Django example](https://bezkoder.com/django-angular-13-crud-rest-framework/)
 
+> [Angular + Django + MySQL](https://www.bezkoder.com/django-angular-mysql/)
+
+> [Angular + Django + PostgreSQL](https://www.bezkoder.com/django-angular-postgresql/)
+
+> [Angular + Django + MongoDB](https://www.bezkoder.com/django-angular-mongodb/)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
